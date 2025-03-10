@@ -6,3 +6,5 @@ For context, this game was originally published to itch.io on Janurary 27th, 202
 NOTE: This repository doesn't include the files for Allegro 5, which is what Ill uses for graphics and inputs. If you wish to make your own project using this code, you will have to download the files for Allegro 5 as well. But don't worry!
 
 This repository also doesn't include the image and audio files whose paths are referenced in the main.cpp file. Without them, main.cpp can't properly compile. So, you'll need to download them from the itch.io page for Ill: https://tillians.itch.io/ill
+
+I plan on deleting the original project file for Ill in order to save space on my computer so this repository makes sure that the original code doesn't get lost.
